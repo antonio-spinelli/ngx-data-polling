@@ -2,6 +2,13 @@
 
 Angular 20 library with utilities to handle data polling in a declarative and type-safe way.
 
+## Compatibility
+
+| ngx-data-polling | Angular     | Status      |
+| ---------------- | ----------- | ----------- |
+| 1.x              | 20.x - 21.x | ✅ Tested   |
+| 1.x              | 15.x - 19.x | ⚠️ Untested |
+
 ## Installation
 
 ```bash
