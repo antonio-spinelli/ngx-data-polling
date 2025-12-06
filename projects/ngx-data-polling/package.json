@@ -1,9 +1,25 @@
 {
   "name": "ngx-data-polling",
   "version": "1.0.0",
+  "description": "Angular library with utilities to handle data polling in a declarative and type-safe way",
+  "author": "Antonio Spinelli",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antonio-spinelli/ngx-data-polling.git"
+  },
+  "keywords": [
+    "angular",
+    "polling",
+    "data-polling",
+    "rxjs",
+    "resource",
+    "signals",
+    "typescript"
+  ],
   "peerDependencies": {
-    "@angular/common": "^20.0.0",
-    "@angular/core": "^20.0.0",
+    "@angular/common": ">=20.0.0",
+    "@angular/core": ">=20.0.0",
     "rxjs": "^7.8.0"
   },
   "dependencies": {
